@@ -1,0 +1,21 @@
+.body {
+    display: flex;
+    height: 75px;
+    align-items: center;
+    justify-content: space-between;
+    margin-left: 200px;
+    margin-top: 25px;
+    margin-right: 200px;
+    
+}
+
+ul {
+    display: flex;
+    gap: 1.5rem;
+    font-size: 25px;
+}
+
+.navHeader {
+    font-size: 40px;
+    font-weight: bold;
+}

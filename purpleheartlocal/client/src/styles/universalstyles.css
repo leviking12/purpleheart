@@ -1,0 +1,12 @@
+body {
+    background-image: url(../assets/logo4.png);
+    background-size:cover;
+   
+}
+
+* {
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: #DCC395;
+    list-style: none;
+    text-decoration: none;
+}
