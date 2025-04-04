@@ -1,0 +1,13 @@
+.footerDiv {
+    display: flex;
+    gap: 250px;
+    justify-content: center;
+    align-items: center;
+    margin-top: 0;
+    margin-bottom: 100px;
+
+}
+
+.footerDiv img {
+    height: 50px;
+}

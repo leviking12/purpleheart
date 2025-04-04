@@ -1,6 +1,9 @@
 body {
-    background-image: url(../assets/logo4.png);
+    
+    background-image: url(../assets/logo6.png);
     background-size:cover;
+    background-position: center center;
+    
    
 }
 
@@ -9,4 +12,5 @@ body {
     color: #DCC395;
     list-style: none;
     text-decoration: none;
+    
 }
